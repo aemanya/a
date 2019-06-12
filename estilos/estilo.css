@@ -1,0 +1,13 @@
+header {
+    background: #000;
+    position: relative;
+    height: 70px;
+}
+
+nav {
+    height: 70px;
+}
+
+a {
+    height: 70px;
+}

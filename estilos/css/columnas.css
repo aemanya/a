@@ -1,0 +1,20 @@
+.grid-p-contactos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5%;
+    grid-row-gap: 5%;
+}
+
+.grid-child img {
+    margin: 0 15px;
+    display: block;
+    text-align: center;
+}
+
+.grid-child img {
+    max-width: 160px;
+}
+
+img {
+    border: 0;
+}
